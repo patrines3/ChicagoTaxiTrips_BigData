@@ -1,6 +1,8 @@
 # ChicagoTaxiTrips_BigData -- This is a work in progress
 
-Analysis of Chicago Taxi Trips - Google Public Dataset
+Analysis of Chicago Taxi Trips - Working with Big Data using BigQuery
+
+Google Public Dataset
 
 Overview
 This dataset includes taxi trips from 2013 to the march 1st 2023, reported to the City of Chicago in its role as a regulatory agency. To protect privacy but allow for aggregate analyses, the Taxi ID is consistent for any given taxi medallion number but does not show the number, Census Tracts are suppressed in some cases, and times are rounded to the nearest 15 minutes. Due to the data reporting process, not all trips are reported but the City believes that most are. For more information about this dataset and how it was created, see this post  on the City of Chicago's blog.
